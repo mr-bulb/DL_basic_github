@@ -17,7 +17,7 @@ This is  a repo to implement basic network model by PyTorch
 - Paper : http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 
 - [x] Read the Paper
-- [ ] Construct the model
+- [x] Construct the model
 
 ### 2. AlexNet
 
